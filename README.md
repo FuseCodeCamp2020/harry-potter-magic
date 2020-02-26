@@ -4,3 +4,5 @@
 
 * Make sure you have git-lfs installed when working with this repo.
 	* https://git-lfs.github.com/
+
+* Track ideas and thoughts as issues here.
